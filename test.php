@@ -1,5 +1,5 @@
 <?php
 
-echo "test page";
+echo "test page test";
 
 ?>
